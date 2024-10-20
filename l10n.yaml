@@ -1,0 +1,3 @@
+arb-dir: lib/l10n # arb-dirがarbファイルが置かれる
+template-arb-file: app_en.arb # デフォルトの言語を指定する
+output-localization-file: app_localizations.dart # importするDartクラスファイル

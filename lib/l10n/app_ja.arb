@@ -1,0 +1,40 @@
+{
+  "helloWorld": "こんにちは、世界！",
+  "@helloWorld": {
+    "description": "プログラミングの挨拶。"
+  },
+  "clicksCount": "クリック数: {count}",
+  "@clicksCount": {
+    "description": "クリック数を表示します。",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "0"
+      }
+    }
+  },
+  "cartItems": "{count, plural, =0{カートに商品が入ってません。} other{カートに商品が{count}個入ってます。}}",
+  "@cartItems": {
+    "description": "カート内の商品数を表示します。",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "0"
+      }
+    }
+  },
+  "accountBalance": "あなたの口座残高は {dollars} 米ドル ({yen}円)です。",
+  "@accountBalance": {
+    "description": "口座の残高を表示します。",
+    "placeholders": {
+      "dollars": {
+        "type": "int",
+        "example": "10"
+      },
+      "yen": {
+        "type": "int",
+        "example": "1450"
+      }
+    }
+  }
+}
