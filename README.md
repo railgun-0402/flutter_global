@@ -1,16 +1,13 @@
-# chapter
+# 多言語化対応
 
-A new Flutter project.
+日本語と英語で簡単なテキスト表示をする。
 
-## Getting Started
+## 参考
+- placeholder
+- text
+この辺の簡単な実装を実施します。
 
-This project is a starting point for a Flutter application.
+やり方は下記参照
 
-A few resources to get you started if this is your first Flutter project:
+https://qiita.com/railgun-0402/items/6cb9cfb600e5c71f88c1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
